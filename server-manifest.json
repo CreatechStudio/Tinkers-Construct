@@ -1,9 +1,9 @@
 {
-  "name": "TC3-Release",
+  "name": "Tinkers-Construct",
   "author": "Iewnfod",
-  "version": "1.18.2a1",
+  "version": "1.18.2a2",
   "description": "",
-  "fileApi": "https://tc3.createchstudio.com",
+  "fileApi": "https://github.createchstudio.com/https://github.com/CreatechStudio/Tinkers-Construct/blob/main",
   "files": [
     {
       "path": "config/oreexcavation-common.toml",
