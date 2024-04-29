@@ -1,0 +1,375 @@
+{
+  "name": "TC3-Release",
+  "author": "Iewnfod",
+  "version": "1.18.2a1",
+  "description": "",
+  "fileApi": "https://tc3.createchstudio.com",
+  "files": [
+    {
+      "path": "config/oreexcavation-common.toml",
+      "hash": "a8a586ef4b9cf0d69a2daa5e4b25d4e60b7aae14"
+    },
+    {
+      "path": "mods/Better FPS Render Distance.jar",
+      "hash": "00a1e55481f45aa43ab5f72ba146b81c770568d5"
+    },
+    {
+      "path": "mods/Technical Engineering 3-18.21a.jar",
+      "hash": "6bfe7cb4da28c42a4a1b6681d8a30b05b9b6952b"
+    },
+    {
+      "path": "mods/Catbop Things 1.18.2 1.3.0.jar",
+      "hash": "b2a2e620c82a30e0282ea8a753e1e84f47bc8d99"
+    },
+    {
+      "path": "mods/Smooth Boot Reloaded 0.0.4 for MC 1.18.2.jar",
+      "hash": "89d7daf594d25c39eebac0e90f72f43c69b52dfe"
+    },
+    {
+      "path": "mods/Ensorcellation 1.18.2 3.2.2.19.jar",
+      "hash": "55094d52aaae5dbceb9ff0e2d17050e082617c37"
+    },
+    {
+      "path": "mods/Rubidium Extras 1.18.2 v1.3.2.jar",
+      "hash": "a62738e6cde59b674e6d368a704dff91d8fdd381"
+    },
+    {
+      "path": "mods/匠魂传 1.0 build5.jar",
+      "hash": "6b23efd7479fe27309908977e2f09059620a0820"
+    },
+    {
+      "path": "mods/LazyDFU 1.0 for Forge.jar",
+      "hash": "069f72997244b57b76c96ac86faa37b1838d52de"
+    },
+    {
+      "path": "mods/FerriteCore 4.2.1 Fabric.jar",
+      "hash": "d5d047374981d614c2a53422be751dc1491f9cd0"
+    },
+    {
+      "path": "mods/Majobroom 1.4.1 1.18.2.jar",
+      "hash": "dc15dec1192680dc7b41e28c356b03a38f8cffcb"
+    },
+    {
+      "path": "mods/Tinkers Craft 1.18.2.jar",
+      "hash": "c6ea6ce0409513cfec503e3039969e0f424969e3"
+    },
+    {
+      "path": "mods/Saturn 0.1.5 MC 1.18.2.jar",
+      "hash": "819bcc189f80982c7ac8ea6bb5bea39325b35ead"
+    },
+    {
+      "path": "mods/Radium Reforged 0.7.10.jar",
+      "hash": "5ef8ecf547ceebc4d1e678b6cd2441756e283e48"
+    },
+    {
+      "path": "mods/KubeJS Tinkers 1802.1.0.jar",
+      "hash": "e6c05925eea6cc7ba703367e0aad610e12f2c3f0"
+    },
+    {
+      "path": "mods/ItemPhysic Lite v1.4.8 for Minecraft.jar",
+      "hash": "2546e5ae4ffa96a22309e5321173142d1f79c8ef"
+    },
+    {
+      "path": "mods/Tinkers Construct 1.18.2 3.7.1.jar",
+      "hash": "a611906d107c148075984d7f8e878b51efb29fae"
+    },
+    {
+      "path": "mods/Nether Ores Plus 1.0.0 1.18.2.jar",
+      "hash": "3ae1026c509070360030aaf8a7356036be0f69ea"
+    },
+    {
+      "path": "mods/The One Probe 1.18-5.1.2.jar",
+      "hash": "7589df5448679b4c55d89d2ea397759725d98e90"
+    },
+    {
+      "path": "mods/Tinkers Katanas v1.1.jar",
+      "hash": "582a6a4e5aade183ff13c0e393f37b2fec7ccfe6"
+    },
+    {
+      "path": "mods/匠魂武器 501858999.jar",
+      "hash": "4fe8ab6adaae411a48b19271a5920e0cfee3a174"
+    },
+    {
+      "path": "mods/Ore Excavation 1.10.162.jar",
+      "hash": "dbbb9fc621aaa9020c7ecfa5b637684e43393e4c"
+    },
+    {
+      "path": "mods/Mantle 1.18.2 1.9.50.jar",
+      "hash": "b9bd91ceec59fb1bb2354fdfe6d7b0912c2b3bd9"
+    },
+    {
+      "path": "mods/Cucumber Library 1.18.2 5.1.5.jar",
+      "hash": "3e14059ed612694fb1a22a7feb05d96b2c6f44ef"
+    },
+    {
+      "path": "mods/TConJEI 1.18.2.jar",
+      "hash": "7943e93c76137bc813b9cf2372d27e8cc2ab9108"
+    },
+    {
+      "path": "mods/Tinkers Calibration 1.18.2 1.0.6b.jar",
+      "hash": "b89b6ae2de542776b77747a2268308ec13c724fb"
+    },
+    {
+      "path": "mods/Forged In Fire 1.0.jar",
+      "hash": "46182a84ecd50df5496869dc80d774923358e8bc"
+    },
+    {
+      "path": "mods/Tinkers Reforged 1.18.2-2.0.8.jar",
+      "hash": "a11eecc6d393f51acafc3f93a3bf4f39db6da7de"
+    },
+    {
+      "path": "mods/MaFgLib 0.1.9 mc1.18.2.jar",
+      "hash": "521bfeede40f187ba90d7ac30563ea3ba8920c63"
+    },
+    {
+      "path": "mods/TerraBlender 1.18.2 1.2.0.126.jar",
+      "hash": "b8a025042f55dc78d38a319bd71e3901e9d00331"
+    },
+    {
+      "path": "mods/CustomSkinLoader ForgeActive.jar",
+      "hash": "27845f67520078467ea0d3d8f223c93bcb62e222"
+    },
+    {
+      "path": "mods/FTB Backups 2 1.18.2 1.0.jar",
+      "hash": "c7915ef67f14fba4861db73c9ee1d22631f2514c"
+    },
+    {
+      "path": "mods/Xaero\u0027s World Map 1.38.4.jar",
+      "hash": "7b7da33858fbec60a36749dbd84a70115d108fd1"
+    },
+    {
+      "path": "mods/I18nUpdateMod 3.5.3 all.jar",
+      "hash": "191b14e675f5e080bf0c045a955eda8b0e9300a7"
+    },
+    {
+      "path": "mods/Json Things 1.18.2 0.4.15.jar",
+      "hash": "9f67607f9f347c2b2268aa169317eec1c625e925"
+    },
+    {
+      "path": "mods/Adaptive Performance Tweaks 1.18.2.jar",
+      "hash": "839aa61dc5fd4d5b0047d5db2f742432398c772f"
+    },
+    {
+      "path": "mods/Entity Culling 1.6.1 for Minecraft 1.18.2.jar",
+      "hash": "7ef564e5aa9d6970f08a726576a1f7d2fbb3cd72"
+    },
+    {
+      "path": "mods/Mystical Agriculture 1.18.2 5.1.5.jar",
+      "hash": "1cf1020363e9ab1a1f228db3d61fe6950db462f6"
+    },
+    {
+      "path": "mods/Starlight 1.0.2 Forge.jar",
+      "hash": "c7dde83f5fbc864d85842c74a4433a8a5c0f15b7"
+    },
+    {
+      "path": "mods/Fastload 3.4.0 MC 1.18.2.jar",
+      "hash": "66bc105ecf731e1b7644480e8e8d3c4ac6095788"
+    },
+    {
+      "path": "mods/NaN Health Fixer 1.18.2.jar",
+      "hash": "3597997a30255dd1b5feb03f05a461b046f329b3"
+    },
+    {
+      "path": "mods/Cloth Config 6.5.102.jar",
+      "hash": "9e4f45433e80eeeb634cac50549619f183f6b3a8"
+    },
+    {
+      "path": "mods/Untamed Wilds 1.18.2 2.4.3.jar",
+      "hash": "71f00f23c9cbf4ad9bbc3d9f80df4171041bd91d"
+    },
+    {
+      "path": "mods/Tinkers Expansion 1.2.2 for Minecraft.jar",
+      "hash": "40904f546f31daa21795d83ce7b6cc5c9987c8e0"
+    },
+    {
+      "path": "mods/Spells \u0026 Shields 1.18.2 2.16.0.jar",
+      "hash": "9169034f7ae55c0db740d8f37e03307ba0918bbc"
+    },
+    {
+      "path": "mods/Cyclic 1.18.2.jar",
+      "hash": "5e7b44ec2339c3f4de606ad7ec53abed9b06f1e5"
+    },
+    {
+      "path": "mods/ingenuity_extra-1.1.jar",
+      "hash": "d81efc33370c86f00f1355667045a93ec77299cb"
+    },
+    {
+      "path": "mods/Tinkers Integrations and Tweaks.jar",
+      "hash": "7da536d674487cb595fa2733021908b09292d337"
+    },
+    {
+      "path": "mods/Tinkers Survival 1.18.2.jar",
+      "hash": "7cc15f100fac8b3c7ddbc639b20e06e1cffe2c48"
+    },
+    {
+      "path": "mods/SuperMartijn642 Core Lib 1.1.17 for Minecraft.jar",
+      "hash": "404492a58b4bd0e1f3df5c565069baec883cad6b"
+    },
+    {
+      "path": "mods/Untamed Delight 1.18.2.jar",
+      "hash": "63142b5c654358a9a8c8dbcbee0e3485463e1135"
+    },
+    {
+      "path": "mods/Waystones 1.18.2 10.2.2.jar",
+      "hash": "0151cb68b9cb4bc9b4b4abceab7bb8cdef27c88d"
+    },
+    {
+      "path": "mods/Radon mc1.18.x-0.8.1.jar",
+      "hash": "7f3ec8a8f7aaecd22f19922fd8aca2e559c4be9a"
+    },
+    {
+      "path": "mods/Connected Glass 1.1.11.jar",
+      "hash": "1557ce920def75dd42d17e3d0b25f9066ecac022"
+    },
+    {
+      "path": "mods/Farmer\u0027s Delight 1.2.3 1.18.2.jar",
+      "hash": "61a06b19d2e767fae0ccf4489cf9efd454d48663"
+    },
+    {
+      "path": "mods/Tinker Innovation 1.18.2.jar",
+      "hash": "4ea932f8fa093b8dd844628272bb3fb49c88d52b"
+    },
+    {
+      "path": "mods/Bio Library 1.18.2.jar",
+      "hash": "307bed2f89ee0fa7af0b6f8cffe339912dc0705b"
+    },
+    {
+      "path": "mods/TEN3T Tinker 1.1.0.jar",
+      "hash": "ba41760e4c0d78a44e6e9c491ed1b5cac0e685d7"
+    },
+    {
+      "path": "mods/Traveler\u0027s Backpack 1.18.2 7.1.46.jar",
+      "hash": "7ebd7852a7a8d3fdb773da2d9d7e1c4ebf508172"
+    },
+    {
+      "path": "mods/Dynamic Trees BOP 1.18.2 3.0.2.jar",
+      "hash": "84b322f1594314f3c35bd67319a61e1b4b935d44"
+    },
+    {
+      "path": "mods/Lightspeed 1.18.2 1.1.0.jar",
+      "hash": "172412a46c61659b6aa6a8df7b29a38fd721b5cf"
+    },
+    {
+      "path": "mods/Architectury 4.12.94 Forge.jar",
+      "hash": "a6705e4ae7acb91870cdb63bc86dadf3dd97ec08"
+    },
+    {
+      "path": "mods/Feytweaks 1.18.2 1.2.6.jar",
+      "hash": "11b310b3b3eeb0a90d882305486f783da428e66f"
+    },
+    {
+      "path": "mods/Farsight 1.18.2-1.9.jar",
+      "hash": "a45bed30998e441e561f960234e484c7f9fe39ae"
+    },
+    {
+      "path": "mods/DynamicTrees 1.18.2 1.0.4.jar",
+      "hash": "bfdddcd73796f4e6662a7b9f32aec309f896a33f"
+    },
+    {
+      "path": "mods/Ice and Fire 2.1.12.jar",
+      "hash": "67ff486e0dcce19afa49f373d7502181035bac65"
+    },
+    {
+      "path": "mods/Rubidium mc1.18.2-0.5.6.jar",
+      "hash": "1ce63fa6642a71b2e1b175bbdc0f61ac12669a67"
+    },
+    {
+      "path": "mods/Ktice Forge 1.18.2 1.0+1.jar",
+      "hash": "d7f78cce3c9e7e7879e7e9c5caef2126d5eee390"
+    },
+    {
+      "path": "mods/Xaero\u0027s Minimap 24.1.1.jar",
+      "hash": "e0bc408c0626e26c5362804af241a4fb3595ce27"
+    },
+    {
+      "path": "mods/BuildersConstruct 1.2.1 for Minecraft 1.18.2.jar",
+      "hash": "d938ce709fb6589cbf948d425e4575ed8c91cdd6"
+    },
+    {
+      "path": "mods/Tinkers Ingenuity 1.4.5.jar",
+      "hash": "1cf9f410af68058757deb883108c32b61ed4eda0"
+    },
+    {
+      "path": "mods/Citadel 1.11.3 1.18.2.jar",
+      "hash": "ca5d46c752f10dae0d77d41a52527f6eacd1895e"
+    },
+    {
+      "path": "mods/Create 1.18.2 0.5.1.f.jar",
+      "hash": "0acb9c11d4a72f6e9b1e520628b282788e6fd0bb"
+    },
+    {
+      "path": "mods/Engineer\u0027s Construct 1.18.2.jar",
+      "hash": "0be29241b7d2f30c370a41debdcfdbffd84925cb"
+    },
+    {
+      "path": "mods/Dynamic Lights v1.3.3.jar",
+      "hash": "1bcfd46c1952c6ca7ba854271828fe7e3d361883"
+    },
+    {
+      "path": "mods/Oculus 1.18.2 1.6.4.jar",
+      "hash": "9bafc5d3069d533c49a19b6f5bdb53637a1d47c2"
+    },
+    {
+      "path": "mods/Tinkers JSON Things 1.1.0.jar",
+      "hash": "cacf567b7102cc4b6b1747983ac6878af4f7c6de"
+    },
+    {
+      "path": "mods/Rhino Forge 1802.2.1.jar",
+      "hash": "75416af83d41e260a0d5a1e9789ba1914ac0bd1b"
+    },
+    {
+      "path": "mods/JEI 1.18.2 Forge 10.2.1.1005.jar",
+      "hash": "95ac179f935376235eb35fa6a854b5051590dcfe"
+    },
+    {
+      "path": "mods/Balm 3.2.6.jar",
+      "hash": "a0be48540d7d9661db8db54cbc96a94b59793fcb"
+    },
+    {
+      "path": "mods/Tinkers Thinking 0.1.0.1.jar",
+      "hash": "dcb1601103912a9742e43f35d97add3c52d75004"
+    },
+    {
+      "path": "mods/MysticalAgradditions-1.18.2-5.1.4.jar",
+      "hash": "1ddffe72281c2d9bde84b217d0ec970f409d5ab7"
+    },
+    {
+      "path": "mods/Biomes O\u0027 Plenty 1.18.2 16.0.0.109.jar",
+      "hash": "760d09f3c530eb9dd1cf5d3c908ca922b3270c17"
+    },
+    {
+      "path": "mods/Fusion 1.1.1 for Minecraft 1.18.jar",
+      "hash": "dea22b635b6d42773a6ddd18e643bb8f517decf1"
+    },
+    {
+      "path": "mods/Wall-Jump 1.18.1 1.3.7.jar",
+      "hash": "8d2baf2c28043815b2b1cdb66d6d9b1ef721e2c4"
+    },
+    {
+      "path": "mods/Twilight Forest 1.18.2 4.1.1494.jar",
+      "hash": "87954a0ee35cf8ed49c06ee64cfeada40f4e19e4"
+    },
+    {
+      "path": "mods/KubeJS Forge 1802.5.5.jar",
+      "hash": "ee9bf64beb6ccde483b76147399dd4aae64b631a"
+    },
+    {
+      "path": "mods/CoFH Core 1.18.2 9.2.3.47.jar",
+      "hash": "b0b6d3196fbb6e96874e31932421c45cf3d8f2eb"
+    },
+    {
+      "path": "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.18.2.zip",
+      "hash": "f1c841271606175e4cd7970b6f1a83f349c5d939"
+    }
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.18.2"
+    },
+    {
+      "id": "forge",
+      "version": "40.2.18"
+    }
+  ]
+}
