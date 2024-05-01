@@ -1,10 +1,14 @@
 {
   "name": "Tinkers-Construct",
   "author": "Iewnfod",
-  "version": "1.18.2a2",
+  "version": "1.18.2a3",
   "description": "",
   "fileApi": "https://github.createchstudio.com/https://github.com/CreatechStudio/Tinkers-Construct/blob/main",
   "files": [
+    {
+      "path": "config/xaerominimap.txt",
+      "hash": "ccba8f57cd466b440e4d9c2828562ef99e23a708"
+    },
     {
       "path": "config/oreexcavation-common.toml",
       "hash": "a8a586ef4b9cf0d69a2daa5e4b25d4e60b7aae14"
@@ -32,10 +36,6 @@
     {
       "path": "mods/Rubidium Extras 1.18.2 v1.3.2.jar",
       "hash": "a62738e6cde59b674e6d368a704dff91d8fdd381"
-    },
-    {
-      "path": "mods/匠魂传 1.0 build5.jar",
-      "hash": "6b23efd7479fe27309908977e2f09059620a0820"
     },
     {
       "path": "mods/LazyDFU 1.0 for Forge.jar",
@@ -86,16 +86,16 @@
       "hash": "582a6a4e5aade183ff13c0e393f37b2fec7ccfe6"
     },
     {
-      "path": "mods/匠魂武器 501858999.jar",
-      "hash": "4fe8ab6adaae411a48b19271a5920e0cfee3a174"
-    },
-    {
       "path": "mods/Ore Excavation 1.10.162.jar",
       "hash": "dbbb9fc621aaa9020c7ecfa5b637684e43393e4c"
     },
     {
       "path": "mods/Mantle 1.18.2 1.9.50.jar",
       "hash": "b9bd91ceec59fb1bb2354fdfe6d7b0912c2b3bd9"
+    },
+    {
+      "path": "mods/Kotlin for Forge 3.12.0.jar",
+      "hash": "cf09c1be6d8950e3f7551f02f141818aee5a3ec0"
     },
     {
       "path": "mods/Cucumber Library 1.18.2 5.1.5.jar",
@@ -116,6 +116,14 @@
     {
       "path": "mods/Tinkers Reforged 1.18.2-2.0.8.jar",
       "hash": "a11eecc6d393f51acafc3f93a3bf4f39db6da7de"
+    },
+    {
+      "path": "mods/IPN 1.10.10 for Forge 1.18.2.jar",
+      "hash": "ff078aaf6f3c97b239d1c28d2d224d84a2a52a6e"
+    },
+    {
+      "path": "mods/Dynamic Trees 1.18.2-1.0.4.jar",
+      "hash": "bfdddcd73796f4e6662a7b9f32aec309f896a33f"
     },
     {
       "path": "mods/MaFgLib 0.1.9 mc1.18.2.jar",
@@ -154,20 +162,12 @@
       "hash": "7ef564e5aa9d6970f08a726576a1f7d2fbb3cd72"
     },
     {
-      "path": "mods/Mystical Agriculture 1.18.2 5.1.5.jar",
-      "hash": "1cf1020363e9ab1a1f228db3d61fe6950db462f6"
-    },
-    {
       "path": "mods/Starlight 1.0.2 Forge.jar",
       "hash": "c7dde83f5fbc864d85842c74a4433a8a5c0f15b7"
     },
     {
       "path": "mods/Fastload 3.4.0 MC 1.18.2.jar",
       "hash": "66bc105ecf731e1b7644480e8e8d3c4ac6095788"
-    },
-    {
-      "path": "mods/NaN Health Fixer 1.18.2.jar",
-      "hash": "3597997a30255dd1b5feb03f05a461b046f329b3"
     },
     {
       "path": "mods/Cloth Config 6.5.102.jar",
@@ -182,10 +182,6 @@
       "hash": "40904f546f31daa21795d83ce7b6cc5c9987c8e0"
     },
     {
-      "path": "mods/Spells \u0026 Shields 1.18.2 2.16.0.jar",
-      "hash": "9169034f7ae55c0db740d8f37e03307ba0918bbc"
-    },
-    {
       "path": "mods/Cyclic 1.18.2.jar",
       "hash": "5e7b44ec2339c3f4de606ad7ec53abed9b06f1e5"
     },
@@ -194,12 +190,12 @@
       "hash": "d81efc33370c86f00f1355667045a93ec77299cb"
     },
     {
-      "path": "mods/Tinkers Integrations and Tweaks.jar",
-      "hash": "7da536d674487cb595fa2733021908b09292d337"
+      "path": "mods/libIPN 1.18.2 4.0.2.jar",
+      "hash": "b8f0ab9567010bd0dd7875a75795cd7306f624ba"
     },
     {
-      "path": "mods/Tinkers Survival 1.18.2.jar",
-      "hash": "7cc15f100fac8b3c7ddbc639b20e06e1cffe2c48"
+      "path": "mods/Tinkers Integrations and Tweaks.jar",
+      "hash": "7da536d674487cb595fa2733021908b09292d337"
     },
     {
       "path": "mods/SuperMartijn642 Core Lib 1.1.17 for Minecraft.jar",
@@ -246,10 +242,6 @@
       "hash": "84b322f1594314f3c35bd67319a61e1b4b935d44"
     },
     {
-      "path": "mods/Lightspeed 1.18.2 1.1.0.jar",
-      "hash": "172412a46c61659b6aa6a8df7b29a38fd721b5cf"
-    },
-    {
       "path": "mods/Architectury 4.12.94 Forge.jar",
       "hash": "a6705e4ae7acb91870cdb63bc86dadf3dd97ec08"
     },
@@ -260,10 +252,6 @@
     {
       "path": "mods/Farsight 1.18.2-1.9.jar",
       "hash": "a45bed30998e441e561f960234e484c7f9fe39ae"
-    },
-    {
-      "path": "mods/DynamicTrees 1.18.2 1.0.4.jar",
-      "hash": "bfdddcd73796f4e6662a7b9f32aec309f896a33f"
     },
     {
       "path": "mods/Ice and Fire 2.1.12.jar",
@@ -330,10 +318,6 @@
       "hash": "dcb1601103912a9742e43f35d97add3c52d75004"
     },
     {
-      "path": "mods/MysticalAgradditions-1.18.2-5.1.4.jar",
-      "hash": "1ddffe72281c2d9bde84b217d0ec970f409d5ab7"
-    },
-    {
       "path": "mods/Biomes O\u0027 Plenty 1.18.2 16.0.0.109.jar",
       "hash": "760d09f3c530eb9dd1cf5d3c908ca922b3270c17"
     },
@@ -360,6 +344,10 @@
     {
       "path": "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.18.2.zip",
       "hash": "f1c841271606175e4cd7970b6f1a83f349c5d939"
+    },
+    {
+      "path": "hmclversion.cfg",
+      "hash": "2b74244424d1365914b6f8025045a347ccf86405"
     }
   ],
   "addons": [
