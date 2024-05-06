@@ -1,7 +1,7 @@
 {
   "name": "Tinkers-Construct",
   "author": "Iewnfod",
-  "version": "1.18.2a5",
+  "version": "1.18.2a6",
   "description": "",
   "fileApi": "https://github.createchstudio.com/https://github.com/CreatechStudio/Tinkers-Construct/blob/main",
   "files": [
@@ -106,10 +106,6 @@
       "hash": "ff078aaf6f3c97b239d1c28d2d224d84a2a52a6e"
     },
     {
-      "path": "mods/Dynamic Trees 1.18.2-1.0.4.jar",
-      "hash": "bfdddcd73796f4e6662a7b9f32aec309f896a33f"
-    },
-    {
       "path": "mods/MaFgLib 0.1.9 mc1.18.2.jar",
       "hash": "521bfeede40f187ba90d7ac30563ea3ba8920c63"
     },
@@ -212,10 +208,6 @@
     {
       "path": "mods/Traveler\u0027s Backpack 1.18.2 7.1.46.jar",
       "hash": "7ebd7852a7a8d3fdb773da2d9d7e1c4ebf508172"
-    },
-    {
-      "path": "mods/Dynamic Trees BOP 1.18.2 3.0.2.jar",
-      "hash": "84b322f1594314f3c35bd67319a61e1b4b935d44"
     },
     {
       "path": "mods/Architectury 4.12.94 Forge.jar",
