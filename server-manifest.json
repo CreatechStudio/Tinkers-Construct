@@ -1,7 +1,7 @@
 {
   "name": "Tinkers-Construct",
   "author": "Iewnfod",
-  "version": "1818.2a4",
+  "version": "1.18.2a5",
   "description": "",
   "fileApi": "https://github.createchstudio.com/https://github.com/CreatechStudio/Tinkers-Construct/blob/main",
   "files": [
@@ -18,16 +18,8 @@
       "hash": "00a1e55481f45aa43ab5f72ba146b81c770568d5"
     },
     {
-      "path": "mods/Catbop Things 1.18.2 1.3.0.jar",
-      "hash": "b2a2e620c82a30e0282ea8a753e1e84f47bc8d99"
-    },
-    {
       "path": "mods/Smooth Boot Reloaded 0.0.4 for MC 1.18.2.jar",
       "hash": "89d7daf594d25c39eebac0e90f72f43c69b52dfe"
-    },
-    {
-      "path": "mods/Ensorcellation 1.18.2 3.2.2.19.jar",
-      "hash": "55094d52aaae5dbceb9ff0e2d17050e082617c37"
     },
     {
       "path": "mods/Rubidium Extras 1.18.2 v1.3.2.jar",
@@ -254,16 +246,12 @@
       "hash": "e0bc408c0626e26c5362804af241a4fb3595ce27"
     },
     {
+      "path": "mods/BuildersConstruct 1.2.1 for Minecraft 1.18.2.jar",
+      "hash": "d938ce709fb6589cbf948d425e4575ed8c91cdd6"
+    },
+    {
       "path": "mods/Citadel 1.11.3 1.18.2.jar",
       "hash": "ca5d46c752f10dae0d77d41a52527f6eacd1895e"
-    },
-    {
-      "path": "mods/Create 1.18.2 0.5.1.f.jar",
-      "hash": "0acb9c11d4a72f6e9b1e520628b282788e6fd0bb"
-    },
-    {
-      "path": "mods/Engineer\u0027s Construct 1.18.2.jar",
-      "hash": "0be29241b7d2f30c370a41debdcfdbffd84925cb"
     },
     {
       "path": "mods/Dynamic Lights v1.3.3.jar",
@@ -316,10 +304,6 @@
     {
       "path": "mods/KubeJS Forge 1802.5.5.jar",
       "hash": "ee9bf64beb6ccde483b76147399dd4aae64b631a"
-    },
-    {
-      "path": "mods/CoFH Core 1.18.2 9.2.3.47.jar",
-      "hash": "b0b6d3196fbb6e96874e31932421c45cf3d8f2eb"
     },
     {
       "path": "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.18.2.zip",
