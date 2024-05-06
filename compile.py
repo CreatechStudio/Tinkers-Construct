@@ -1,3 +1,5 @@
+#!/usr/local/bin/python3
+
 import os
 import json
 import hashlib
@@ -32,7 +34,7 @@ override_ignore = [
 manifest = {
 	"name": "Tinkers-Construct",
 	"author": "Iewnfod",
-	"version": "1.18.2a8",
+	"version": "1.18.2a9",
 	"description": "",
 	"fileApi": "https://github.createchstudio.com/https://github.com/CreatechStudio/Tinkers-Construct/blob/main",
 	"files": {},
