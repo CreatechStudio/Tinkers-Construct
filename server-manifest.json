@@ -1,7 +1,7 @@
 {
   "name": "Tinkers-Construct",
   "author": "Iewnfod",
-  "version": "1.18.2a7",
+  "version": "1.18.2a8",
   "description": "",
   "fileApi": "https://github.createchstudio.com/https://github.com/CreatechStudio/Tinkers-Construct/blob/main",
   "files": [
@@ -64,6 +64,10 @@
     {
       "path": "mods/Ore Excavation 1.10.162.jar",
       "hash": "dbbb9fc621aaa9020c7ecfa5b637684e43393e4c"
+    },
+    {
+      "path": "mods/IAS Forge.jar",
+      "hash": "7b394136883713de4d22b8f080e1d9b4174697b8"
     },
     {
       "path": "mods/Mantle 1.18.2 1.9.50.jar",
@@ -291,15 +295,15 @@
     },
     {
       "path": "config/xaerominimap.txt",
-      "hash": "ccba8f57cd466b440e4d9c2828562ef99e23a708"
+      "hash": "326496f120740de842a0b0cf4fff7052724f8ece"
     },
     {
       "path": "config/oreexcavation-common.toml",
-      "hash": "04ddaa6f423d4189caa10c8aaabf11debd6360db"
+      "hash": "a8a586ef4b9cf0d69a2daa5e4b25d4e60b7aae14"
     },
     {
       "path": "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.18.2.zip",
-      "hash": "ddac67278a08c74a2919c69c59d24fd4209b8395"
+      "hash": "6111bc268fe5c73afea70fbeb4a438a4a5c288bc"
     },
     {
       "path": "hmclversion.cfg",

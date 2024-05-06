@@ -32,7 +32,7 @@ override_ignore = [
 manifest = {
 	"name": "Tinkers-Construct",
 	"author": "Iewnfod",
-	"version": "1.18.2a7",
+	"version": "1.18.2a8",
 	"description": "",
 	"fileApi": "https://github.createchstudio.com/https://github.com/CreatechStudio/Tinkers-Construct/blob/main",
 	"files": {},
@@ -113,7 +113,18 @@ def new_files():
 	return files
 
 # main
+old_manifest = {}
+if os.path.exists(manifest_path):
+	with open(manifest_path, 'r') as f:
+		old_manifest = json.loads(f.read())
+
+if 'version' in old_manifest:
+	if old_manifest['version'] == manifest['version']:
+		print('[WARNING] Version does not change!')
+
 manifest['files'] = new_files()
 
 with open(manifest_path, 'w') as f:
 	f.write(json.dumps(manifest, indent=2))
+
+print(f'Current Version: {manifest["version"]}')
