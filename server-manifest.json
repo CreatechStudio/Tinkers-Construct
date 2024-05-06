@@ -1,18 +1,10 @@
 {
   "name": "Tinkers-Construct",
   "author": "Iewnfod",
-  "version": "1.18.2a6",
+  "version": "1.18.2a7",
   "description": "",
   "fileApi": "https://github.createchstudio.com/https://github.com/CreatechStudio/Tinkers-Construct/blob/main",
   "files": [
-    {
-      "path": "config/xaerominimap.txt",
-      "hash": "ccba8f57cd466b440e4d9c2828562ef99e23a708"
-    },
-    {
-      "path": "config/oreexcavation-common.toml",
-      "hash": "a8a586ef4b9cf0d69a2daa5e4b25d4e60b7aae14"
-    },
     {
       "path": "mods/Better FPS Render Distance.jar",
       "hash": "00a1e55481f45aa43ab5f72ba146b81c770568d5"
@@ -122,7 +114,7 @@
       "hash": "c7915ef67f14fba4861db73c9ee1d22631f2514c"
     },
     {
-      "path": "mods/Xaero\u0027s World Map 1.38.4.jar",
+      "path": "mods/Xaero's World Map 1.38.4.jar",
       "hash": "7b7da33858fbec60a36749dbd84a70115d108fd1"
     },
     {
@@ -194,7 +186,7 @@
       "hash": "1557ce920def75dd42d17e3d0b25f9066ecac022"
     },
     {
-      "path": "mods/Farmer\u0027s Delight 1.2.3 1.18.2.jar",
+      "path": "mods/Farmer's Delight 1.2.3 1.18.2.jar",
       "hash": "61a06b19d2e767fae0ccf4489cf9efd454d48663"
     },
     {
@@ -206,7 +198,7 @@
       "hash": "307bed2f89ee0fa7af0b6f8cffe339912dc0705b"
     },
     {
-      "path": "mods/Traveler\u0027s Backpack 1.18.2 7.1.46.jar",
+      "path": "mods/Traveler's Backpack 1.18.2 7.1.46.jar",
       "hash": "7ebd7852a7a8d3fdb773da2d9d7e1c4ebf508172"
     },
     {
@@ -234,7 +226,7 @@
       "hash": "d7f78cce3c9e7e7879e7e9c5caef2126d5eee390"
     },
     {
-      "path": "mods/Xaero\u0027s Minimap 24.1.1.jar",
+      "path": "mods/Xaero's Minimap 24.1.1.jar",
       "hash": "e0bc408c0626e26c5362804af241a4fb3595ce27"
     },
     {
@@ -278,7 +270,7 @@
       "hash": "dcb1601103912a9742e43f35d97add3c52d75004"
     },
     {
-      "path": "mods/Biomes O\u0027 Plenty 1.18.2 16.0.0.109.jar",
+      "path": "mods/Biomes O' Plenty 1.18.2 16.0.0.109.jar",
       "hash": "760d09f3c530eb9dd1cf5d3c908ca922b3270c17"
     },
     {
@@ -298,12 +290,20 @@
       "hash": "ee9bf64beb6ccde483b76147399dd4aae64b631a"
     },
     {
+      "path": "config/xaerominimap.txt",
+      "hash": "ccba8f57cd466b440e4d9c2828562ef99e23a708"
+    },
+    {
+      "path": "config/oreexcavation-common.toml",
+      "hash": "04ddaa6f423d4189caa10c8aaabf11debd6360db"
+    },
+    {
       "path": "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.18.2.zip",
-      "hash": "f1c841271606175e4cd7970b6f1a83f349c5d939"
+      "hash": "ddac67278a08c74a2919c69c59d24fd4209b8395"
     },
     {
       "path": "hmclversion.cfg",
-      "hash": "2b74244424d1365914b6f8025045a347ccf86405"
+      "hash": "42e4ce3acd96c046208a87e32ba621044fbafe44"
     }
   ],
   "addons": [
