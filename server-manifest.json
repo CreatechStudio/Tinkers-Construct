@@ -1,7 +1,7 @@
 {
   "name": "Tinkers-Construct",
   "author": "Iewnfod",
-  "version": "1.18.2a9",
+  "version": "1.18.2a10",
   "description": "",
   "fileApi": "https://github.createchstudio.com/https://github.com/CreatechStudio/Tinkers-Construct/blob/main",
   "files": [
@@ -300,10 +300,6 @@
     {
       "path": "config/oreexcavation-common.toml",
       "hash": "a8a586ef4b9cf0d69a2daa5e4b25d4e60b7aae14"
-    },
-    {
-      "path": "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.18.2.zip",
-      "hash": "6111bc268fe5c73afea70fbeb4a438a4a5c288bc"
     },
     {
       "path": "hmclversion.cfg",
