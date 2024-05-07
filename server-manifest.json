@@ -1,7 +1,7 @@
 {
   "name": "Tinkers-Construct",
   "author": "Iewnfod",
-  "version": "1.18.2a10",
+  "version": "1.18.2a11",
   "description": "",
   "fileApi": "https://github.createchstudio.com/https://github.com/CreatechStudio/Tinkers-Construct/blob/main",
   "files": [
@@ -180,6 +180,10 @@
     {
       "path": "mods/Radon mc1.18.x-0.8.1.jar",
       "hash": "7f3ec8a8f7aaecd22f19922fd8aca2e559c4be9a"
+    },
+    {
+      "path": "mods/WatchDog-AntiCheat-1.18.2-0.7.jar",
+      "hash": "88f3758dccd32eb46787c46507b6394af9516202"
     },
     {
       "path": "mods/Connected Glass 1.1.11.jar",
