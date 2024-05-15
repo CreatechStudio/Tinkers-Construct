@@ -1,7 +1,7 @@
 {
   "name": "Tinkers-Construct",
   "author": "Iewnfod",
-  "version": "1.18.2a15",
+  "version": "1.18.2a16",
   "description": "",
   "fileApi": "https://github.createchstudio.com/https://github.com/CreatechStudio/Tinkers-Construct/blob/main",
   "files": [
@@ -40,10 +40,6 @@
     {
       "path": "mods/Radium Reforged 0.7.10.jar",
       "hash": "5ef8ecf547ceebc4d1e678b6cd2441756e283e48"
-    },
-    {
-      "path": "mods/MaFgLib-0.1.10-mc1.18.2.jar",
-      "hash": "3feda78dd5dfa073fbb30a1e447e39f6740369dd"
     },
     {
       "path": "mods/KubeJS Tinkers 1802.1.0.jar",
@@ -98,10 +94,6 @@
       "hash": "ff078aaf6f3c97b239d1c28d2d224d84a2a52a6e"
     },
     {
-      "path": "mods/MaFgLib 0.1.9 mc1.18.2.jar",
-      "hash": "521bfeede40f187ba90d7ac30563ea3ba8920c63"
-    },
-    {
       "path": "mods/TerraBlender 1.18.2 1.2.0.126.jar",
       "hash": "b8a025042f55dc78d38a319bd71e3901e9d00331"
     },
@@ -112,6 +104,10 @@
     {
       "path": "mods/FTB Backups 2 1.18.2 1.0.jar",
       "hash": "c7915ef67f14fba4861db73c9ee1d22631f2514c"
+    },
+    {
+      "path": "mods/MultiMine-1.18.3.jar",
+      "hash": "6cfb666d4da85522f9f5589de5314f800f71db13"
     },
     {
       "path": "mods/Xaero's World Map 1.38.4.jar",
@@ -184,6 +180,10 @@
     {
       "path": "mods/Radon mc1.18.x-0.8.1.jar",
       "hash": "7f3ec8a8f7aaecd22f19922fd8aca2e559c4be9a"
+    },
+    {
+      "path": "mods/MaFgLib 0.1.10 mc1.18.2.jar",
+      "hash": "3feda78dd5dfa073fbb30a1e447e39f6740369dd"
     },
     {
       "path": "mods/Connected Glass 1.1.11.jar",
@@ -307,7 +307,7 @@
     },
     {
       "path": "config/xaerominimap.txt",
-      "hash": "326496f120740de842a0b0cf4fff7052724f8ece"
+      "hash": "b0de1415a21123c7f67f5bd8f2930f26d833c097"
     },
     {
       "path": "config/oreexcavation-common.toml",
