@@ -14,6 +14,7 @@ override_path = os.path.join(base, 'overrides')
 detect_base = os.path.abspath('/Users/muyunxi/Desktop/desktop/Minecraft/minecraft/versions/TC3')
 override_contents = [
 	'mods',
+	'config/majobroom-common.toml',
 	'config/xaerominimap.txt',
 	'config/oreexcavation-common.toml',
 	'hmclversion.cfg'
@@ -33,7 +34,7 @@ override_ignore = [
 manifest = {
 	"name": "Tinkers-Construct",
 	"author": "Iewnfod",
-	"version": "1.18.2a16",
+	"version": "1.18.2a17",
 	"description": "",
 	"fileApi": "https://github.createchstudio.com/https://github.com/CreatechStudio/Tinkers-Construct/blob/main",
 	"files": {},
@@ -61,6 +62,7 @@ def get_hash(p):
 	return sha1.hexdigest()
 
 def copy_file(original_path, p):
+	print(f'{original_path} -> {p}')
 	shutil.copyfile(original_path, os.path.join(override_path, p))
 
 def scan_dir(content_path, p):

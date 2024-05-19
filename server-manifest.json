@@ -1,7 +1,7 @@
 {
   "name": "Tinkers-Construct",
   "author": "Iewnfod",
-  "version": "1.18.2a16",
+  "version": "1.18.2a17",
   "description": "",
   "fileApi": "https://github.createchstudio.com/https://github.com/CreatechStudio/Tinkers-Construct/blob/main",
   "files": [
@@ -304,6 +304,10 @@
     {
       "path": "mods/KubeJS Forge 1802.5.5.jar",
       "hash": "ee9bf64beb6ccde483b76147399dd4aae64b631a"
+    },
+    {
+      "path": "config/majobroom-common.toml",
+      "hash": "30c666d568896a210b5c90f6266daec2521703c4"
     },
     {
       "path": "config/xaerominimap.txt",
