@@ -34,7 +34,7 @@ override_ignore = [
 manifest = {
 	"name": "Tinkers-Construct",
 	"author": "Iewnfod",
-	"version": "1.18.2a17",
+	"version": "1.18.2a18",
 	"description": "",
 	"fileApi": "https://github.createchstudio.com/https://github.com/CreatechStudio/Tinkers-Construct/blob/main",
 	"files": {},

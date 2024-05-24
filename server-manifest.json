@@ -1,7 +1,7 @@
 {
   "name": "Tinkers-Construct",
   "author": "Iewnfod",
-  "version": "1.18.2a17",
+  "version": "1.18.2a18",
   "description": "",
   "fileApi": "https://github.createchstudio.com/https://github.com/CreatechStudio/Tinkers-Construct/blob/main",
   "files": [
@@ -98,6 +98,10 @@
       "hash": "b8a025042f55dc78d38a319bd71e3901e9d00331"
     },
     {
+      "path": "mods/configured-2.0.1-1.18.2.jar",
+      "hash": "825e0e439de2bfabf5d088953eb49c1c04e3e531"
+    },
+    {
       "path": "mods/CustomSkinLoader ForgeActive.jar",
       "hash": "27845f67520078467ea0d3d8f223c93bcb62e222"
     },
@@ -130,6 +134,10 @@
       "hash": "7ef564e5aa9d6970f08a726576a1f7d2fbb3cd72"
     },
     {
+      "path": "mods/chunkloaders-1.2.8a-forge-mc1.18.jar",
+      "hash": "25c6c0bb3a54580d39563fc6a381be48304d6318"
+    },
+    {
       "path": "mods/Starlight 1.0.2 Forge.jar",
       "hash": "c7dde83f5fbc864d85842c74a4433a8a5c0f15b7"
     },
@@ -156,6 +164,10 @@
     {
       "path": "mods/libIPN 1.18.2 4.0.2.jar",
       "hash": "b8f0ab9567010bd0dd7875a75795cd7306f624ba"
+    },
+    {
+      "path": "mods/supermartijn642configlib-1.1.8-forge-mc1.18.jar",
+      "hash": "b927dcfa7691f63fe15b459cff5b145c243d42bf"
     },
     {
       "path": "mods/Tinkers Integrations and Tweaks.jar",
@@ -276,6 +288,10 @@
     {
       "path": "mods/Balm 3.2.6.jar",
       "hash": "a0be48540d7d9661db8db54cbc96a94b59793fcb"
+    },
+    {
+      "path": "mods/Forgematica-0.1.9-mc1.18.2.jar",
+      "hash": "3bff6745903407e772a55382eb8230532b8eaf4c"
     },
     {
       "path": "mods/Tinkers Thinking 0.1.0.1.jar",
