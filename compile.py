@@ -11,7 +11,7 @@ base = os.path.dirname(os.path.abspath(__file__))
 manifest_path = os.path.join(base, 'server-manifest.json')
 override_path = os.path.join(base, 'overrides')
 
-detect_base = os.path.abspath('/Users/muyunxi/Desktop/desktop/Minecraft/minecraft/versions/TC3')
+detect_base = os.path.abspath('/Users/jessiezhu/Library/Application Support/minecraft/versions/Tinkers-Construct')
 override_contents = [
 	'mods',
 	'config/majobroom-common.toml',
@@ -34,7 +34,7 @@ override_ignore = [
 manifest = {
 	"name": "Tinkers-Construct",
 	"author": "Iewnfod",
-	"version": "1.18.2a18",
+	"version": "1.18.2a19",
 	"description": "",
 	"fileApi": "https://github.createchstudio.com/https://github.com/CreatechStudio/Tinkers-Construct/blob/main",
 	"files": {},
