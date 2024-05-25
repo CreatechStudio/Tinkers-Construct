@@ -1,7 +1,7 @@
 {
   "name": "Tinkers-Construct",
   "author": "Iewnfod",
-  "version": "1.18.2a19",
+  "version": "1.18.2a21",
   "description": "",
   "fileApi": "https://github.createchstudio.com/https://github.com/CreatechStudio/Tinkers-Construct/blob/main",
   "files": [
@@ -272,6 +272,10 @@
     {
       "path": "mods/ObsidianUI-forge-0.2.2+mc1.18.2.jar",
       "hash": "05b2fdb502c4a28b93780c243c5c8aed1ea70ccb"
+    },
+    {
+      "path": "mods/polymorph-forge-1.18.2-0.50.jar",
+      "hash": "53b1a35159151e555453b49ea16b678d75392b5c"
     },
     {
       "path": "mods/Citadel 1.11.3 1.18.2.jar",
